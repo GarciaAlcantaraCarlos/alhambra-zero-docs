@@ -8,3 +8,6 @@ Verificación de que el contenido no supera el 0,0% de alcohol.
 
 ## Etiquetado sin alcohol
 Todas las botellas deben ir claramente etiquetadas como 0,0.
+
+## Relación con productores locales
+Alhambra se fabrica fomentando el comercio ético local
